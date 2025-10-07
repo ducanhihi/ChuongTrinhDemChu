@@ -32,6 +32,6 @@ public class Main {
             }
             if (!matched) i++;
         }
-        System.out.println("Output: " + count);
+        System.out.println("Output: " + count + telex);
     }
 }
